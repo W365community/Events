@@ -23,7 +23,7 @@ $UserID = (get-mguser -Filter "UserPrincipalName eq `'$UserUPN`'").Id
 #$SKUID = 'e2aebe6c-897d-480f-9d62-fff1381581f7' # 2 cpu 8 GB 128 GB
 $SKUID = '226ca751-f0a4-4232-9be5-73c02a92555e' #2 cPu 4 GB 128 GB
 $SMTPServer = 'xxx.mail.protection.outlook.com'
-$MailFrom ='CloudPC@configgirl.onmicrosoft.com'
+$MailFrom ='CloudPC@xxx.onmicrosoft.com'
 $Subject = "New Cloud PC is available"
 
 $Body = @"
