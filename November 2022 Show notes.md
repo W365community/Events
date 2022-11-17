@@ -8,7 +8,7 @@ ESG report: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE51G5X
 
 ## Dawn Wertz - Using Graph with Windows 365
 Retrive Secret keys: https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-powershell  
-aad device trust sample: https://github.com/MSEndpointMgr/AADDeviceTrust  
+AAD device trust sample: https://github.com/MSEndpointMgr/AADDeviceTrust  
 Postman : https://learn.microsoft.com/en-us/graph/use-postman  
 
 ## Niall Brady & Paul Winstanley - Implementing & troubleshooting hybrid join
