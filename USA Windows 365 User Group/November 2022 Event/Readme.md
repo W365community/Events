@@ -1,4 +1,4 @@
-# Show notes for Novemer 2022 USA meet up!
+# Show notes for November 2022 USA meet up!
  
 ## Christiaan Brinkhoff - Whats new in Windows 365
 Roadmap: https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=Windows%20365  
